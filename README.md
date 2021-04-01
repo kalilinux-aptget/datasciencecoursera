@@ -1,4 +1,4 @@
-# datasciencecoursera
+# datascience
 URL feature selection 
 
 This file is used for extracting the features from the dataset containing phishing and genuine URL
